@@ -1,0 +1,7 @@
+finV: VBP|VBD|HVP|HVD|DOD|DOP|BEP|BED|MD
+preN: D|WD|ADJ*|Q*|PRO$|N$|NPR$|ONE
+plPRO: Ve|We|Wee|ue|uee|ve|vee|vee?|we|wee|wey|wie|tha\?y|thaj|thai|thay|Thay|They|they|the|yai|yaj|yey|ya|Th|tha|thy|thy_
+1sgPRO: I|aye|I_|I\?|Iw|j
+3sgPRO: It|Itt|It_|it|itt|it?|it_|_it|jt|IT|jt|sche|scho|schoe|schoo|schou|she|she_|shee|sho|shoe|shoo|schow|She|He|he|hee|he_|h\*e\%|he?|hye
+2PRO: yo=w=|yo=u=|you|you\?|you_|youe|yow|yow_|_yow|yowe|yw|z=w=|ze|zee|zei|zo?w?|zou|zow|zow?|zowe|ziow|zw|Yee|You|You_|Yow|Ze|z\*e%|zhe|zie|Zou|zou|zoue|Zow|zo=w=|ye|ye'|yhe|yee
+head-of-full-NP: D|ADJ|ADJ[RS]|Q|Q[RS]|N|NS|NPR|NPRS|PRO$|OTHER
