@@ -1,0 +1,7 @@
+node: $METAROOT
+copy_corpus: T
+
+query: ({1}[1]IP* hasSister {2}[2]IP*)
+   AND ([1]IP* iPrecedes [2]IP*)
+
+extend_span{2, 1}:
